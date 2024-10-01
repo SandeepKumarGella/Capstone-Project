@@ -1,0 +1,791 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "category": "mens-wear",
+      "title": "Roadster",
+      "url": "assets/images/MensWear/MensWear1.jpg",
+      "description": "Tropical Printed Pure Cotton Shirt",
+      "price": 1899,
+      "rating": " | ",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "mens-wear",
+      "title": "Levi's",
+      "url": "assets/images/MensWear/MensWear2.jpg",
+      "description": "Tropical Slim Fit Shirt",
+      "price": 1999,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "mens-wear",
+      "title": "WROGN",
+      "url": "assets/images/MensWear/MensWear3.jpg",
+      "description": "Men Regular Fit Solid Casual Sustainable Shirt",
+      "price": 1299,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "mens-wear",
+      "title": "WROGN",
+      "url": "assets/images/MensWear/MensWear4.jpg",
+      "description": "Men Cotton Linen Sustainable Shirt",
+      "price": 1799,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "mens-wear",
+      "title": "Roadster",
+      "url": "assets/images/MensWear/MensWear5.jpg",
+      "description": "Tropical Printed Pure Cotton Shirt",
+      "price": 799,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "mens-wear",
+      "title": "Levi's",
+      "url": "assets/images/MensWear/MensWear6.jpg",
+      "description": "Men Regular Fit Solid Casual Sustainable Shirt",
+      "price": 1299,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "mens-wear",
+      "title": "WROGN",
+      "url": "assets/images/MensWear/MensWear7.jpg",
+      "description": "Men Regular Fit Shirt",
+      "price": 1599,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "mens-wear",
+      "title": "Roadster",
+      "url": "assets/images/MensWear/MensWear8.jpg",
+      "description": "Men Regular Fit Solid Casual  Shirt",
+      "price": 899,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "mens-wear",
+      "title": "WROGN",
+      "url": "assets/images/MensWear/MensWear9.jpg",
+      "description": "Men Regular Fit Solid Casual Sustainable Shirt",
+      "price": 1199,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "mens-wear",
+      "title": "Levi's",
+      "url": "assets/images/MensWear/MensWear10.jpg",
+      "description": "Men Fit Slim Casual Shirt",
+      "price": 1199,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "womens-wear",
+      "title": "KALINI ",
+      "description": "Women Beige Floral Yoke Design Straight Kurta With Trousers & With Dupatta",
+      "price": 887,
+      "url": "assets/images/WomensWear/WomensWear1.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "womens-wear",
+      "title": "SANGRIA",
+      "description": "Women Navy Blue Pure Cotton Kurta With Salwar",
+      "price": 989,
+      "url": "assets/images/WomensWear/WomensWear2.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "womens-wear",
+      "title": "LIBAS",
+      "description": "Women Maroon Floral Embroidered Sequinned Kurta With Trousers & Dupatta",
+      "price": 3599,
+      "url": "assets/images/WomensWear/WomensWear3.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "womens-wear",
+      "title": "SUTI",
+      "description": "Ethnic Motifs Printed Notched Neck Kurta With Trousers",
+      "price": 1679,
+      "url": "assets/images/WomensWear/WomensWear4.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "womens-wear",
+      "title": "AACHHo",
+      "description": "Women Neria Gotapatti Tier Suit Set",
+      "price": 5175,
+      "url": "assets/images/WomensWear/WomensWear5.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "womens-wear",
+      "title": "VISHUDH",
+      "description": "Women Peach-Coloured Ethnic Motifs Yoke Deign Thread Work Kurti With Skirt & With Dupatta ",
+      "price": 2171,
+      "url": "assets/images/WomensWear/WomensWear6.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "womens-wear",
+      "title": "PARASSIO CLOTHINGS",
+      "description": "Women Maroon Printed Kurta With Palazzos",
+      "price": 1499,
+      "url": "assets/images/WomensWear/WomensWear7.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "womens-wear",
+      "title": "Divena",
+      "description": "Ethnic Motifs Printed Pure Cotton Kurta With Patiala",
+      "price": 1699,
+      "url": "assets/images/WomensWear/WomensWear8.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "womens-wear",
+      "title": "MONTe CARLO",
+      "description": "Bandhani Printed Kurta With Trousers",
+      "price": 2999,
+      "url": "assets/images/WomensWear/WomensWear9.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "womens-wear",
+      "title": "BIBA",
+      "description": "Women Navy Blue Ethnic Motifs Printed Kurta With Palazzos & With Dupatta",
+      "price": 1949,
+      "url": "assets/images/WomensWear/WomensWear10.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "womens-wear",
+      "title": "MONTe CARLO",
+      "description": "Bandhani Printed Kurta With Trousers",
+      "url": "assets/images/WomensWear/WomensWear11.jpg",
+      "price": 1899,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "womens-wear",
+      "title": "BIBA",
+      "description": "Girls Multi-Coloured Tie and Dye Dyed Chiffon A-Line Dress",
+      "url": "assets/images/WomensWear/WomensWear12.jpg",
+      "price": 1899,
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "kids-wear",
+      "title": "ANTHRILO",
+      "description": "Girls Tie & Dye Star Fleece Sweatshirt With Joggers",
+      "price": 1273,
+      "url": "assets/images/KidsWear/KidsWear1.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "kids-wear",
+      "title": "Cub McPaws",
+      "description": "Multicoloured Tie and Dye A-Line Dress",
+      "price": 599,
+      "url": "assets/images/KidsWear/KidsWear2.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "kids-wear",
+      "title": "YK",
+      "description": "Girls Blue & White Tie & Dye Ariel Print A-Line Dress With Cut -Out",
+      "price": 1299,
+      "url": "assets/images/KidsWear/KidsWear3.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "kids-wear",
+      "title": "LilPicks",
+      "description": "Girls Bule & Yellow Tie Dye Smoking Top With Palazzos",
+      "price": 699,
+      "url": "assets/images/KidsWear/KidsWear4.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "kids-wear",
+      "title": "Pantaloons Junior",
+      "description": "Tie and dye Cotton Dress",
+      "price": 799,
+      "url": "assets/images/KidsWear/KidsWear5.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "category": "kids-wear",
+      "title": "Dchica",
+      "description": "Girls Blue Tie & Dye Printed Thermal Jumpsuit",
+      "price": 876,
+      "url": "assets/images/KidsWear/KidsWear6.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "kids-wear",
+      "title": "StyleStone",
+      "description": "Girls Multi-Coloured Tie and Dye Dyed Chiffon A-Line Dress",
+      "price": 797,
+      "url": "assets/images/KidsWear/KidsWear7.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "kids-wear",
+      "title": "Zalio",
+      "description": "Tie & Dye Pure Cotton Dungeree Set",
+      "price": 743,
+      "url": "assets/images/KidsWear/KidsWear8.jpg",
+      "reviews": [
+        {
+          "name": "Hi",
+          "email": "Hi@gmail",
+          "phone": "12345543221",
+          "feedback": "Feedback",
+          "rating": 5,
+          "id": 1
+        }
+      ]
+    }
+  ],
+  "contactData": [
+    {
+      "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+      "phone": [
+        "(91) 987 654 3210",
+        "(91) 987 654 3211"
+      ],
+      "email": "contact@sparkclothing.com"
+    }
+  ],
+  "getInTouchData": [
+    {
+      "name": "sandeep",
+      "email": "sandeep@gmail.com",
+      "phone": "12345",
+      "message": "Heloo",
+      "id": 1
+    },
+    {
+      "name": "sandy",
+      "email": "sandy@gmail.com",
+      "phone": "123456789",
+      "message": "bye",
+      "id": 2
+    },
+    {
+      "name": "get",
+      "email": "intouch@in",
+      "phone": "1234",
+      "message": "hhh",
+      "id": 3
+    },
+    {
+      "name": "Hi",
+      "email": "Hi@gmail",
+      "phone": "090",
+      "message": "iuj",
+      "id": 4
+    },
+    {
+      "name": "Hi",
+      "email": "Hi@gmail",
+      "phone": "12345543221",
+      "feedback": "Feedback",
+      "id": 5
+    },
+    {
+      "name": "varshini",
+      "email": "varshin@gmail",
+      "phone": "12234",
+      "message": "as",
+      "id": 6
+    },
+    {
+      "name": "siva",
+      "email": "siva@gmail",
+      "phone": "12233",
+      "message": "siva",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "message": "",
+      "id": 8
+    },
+    {
+      "name": "sandep",
+      "email": "sandeep@ajay.com",
+      "phone": 7749,
+      "message": "aszssd",
+      "id": 9
+    },
+    {
+      "name": "sandeep",
+      "email": "sandeep@gamail",
+      "phone": 120,
+      "message": "mmmmm",
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ],
+  "Reviews": [
+    {
+      "id": 1,
+      "name": "Hi",
+      "email": "Hi@gmail",
+      "phone": "12345543221",
+      "feedback": "Feedback",
+      "rating": "5"
+    },
+    {
+      "name": "sandeep",
+      "email": "sandeep@gmail.co",
+      "phone": "11111123w4",
+      "feedback": "hhdkdklndlllllllllllllllllllllllllllllkkkkkkkkkkkkkkkkkkkkk",
+      "id": 2
+    },
+    {
+      "name": "dasvgd",
+      "email": "sand@gmaik",
+      "phone": "t21871284e1",
+      "feedback": "jefkawedflihfveodijenaldksvnkdsnvkaruvkrjbvkle.jdsnc",
+      "id": 3
+    },
+    {
+      "name": "sandepp",
+      "email": "san@gmil.com",
+      "phone": "76r176827",
+      "feedback": "nckljdbcvklvhaedjvnalkejdnvlkejngkjrgnrlkignjoirjgnlrkn",
+      "rating": "",
+      "id": 4
+    },
+    {
+      "name": "yhgjaejekfvaj",
+      "email": "vhfdhwej@gmail.com",
+      "phone": "y1987y9837932u02",
+      "feedback": "jnaliwekfnvkflewhgolarigoigjnvow;gijgorigjroigjnlkfvnmoelho",
+      "rating": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "jj",
+      "rating": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "feedback": "",
+      "rating": "",
+      "id": 16
+    },
+    {
+      "name": "san",
+      "email": "san@gmail",
+      "phone": "1234",
+      "feedback": "yujkjjhgfdsazxscdfvgbnmj,kmnbvcdxszaxsdcfghjkjhgfdszxcvnhjm",
+      "rating": "",
+      "id": 17
+    },
+    {
+      "name": "sandeep",
+      "email": "sande@gmail.com",
+      "phone": "1234",
+      "feedback": "123lkjhgfdsdfghjklkjhgfdsasdfghjkjhgfdsdfghjkjhgfdsdfgh",
+      "rating": "",
+      "id": 18
+    }
+  ]
+}
